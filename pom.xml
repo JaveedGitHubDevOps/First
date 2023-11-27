@@ -6,7 +6,7 @@
 
   <groupId>org.batch.maven</groupId>
   <artifactId>devops-mvn</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>devops-mvn</name>
   <!-- FIXME change it to the project's website -->
